@@ -34,7 +34,7 @@ dependencies {
 // Google project number / FCM Sender ID will be pulled in from the OneSignal dashbaord
 class DefaultManifestPlaceHolders {
     static final MANIFEST_PLACEHOLDERS_DEFAULTS = [
-        onesignal_app_id: '',
+        onesignal_app_id: 'a7c71ec4-4476-4d90-8249-f5d2d9eaab14',
         onesignal_google_project_number: 'REMOTE'
     ]
 
